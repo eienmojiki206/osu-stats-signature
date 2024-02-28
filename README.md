@@ -2,30 +2,30 @@
 
 [![GitHub](https://img.shields.io/github/license/solstice23/osu-stats-signature?color=blue&style=for-the-badge)](https://github.com/solstice23/osu-stats-signature/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/solstice23/osu-stats-signature?color=ff69b4&style=for-the-badge)](https://github.com/solstice23/osu-stats-signature/stargazers) [![GitHub last commit](https://img.shields.io/github/last-commit/solstice23/osu-stats-signature?style=for-the-badge)](https://github.com/solstice23/osu-stats-signature/commits/master)
 
-## 简介
+## Introduction
 
-osu-stats-signature 可以生成实时更新的 osu! 个人资料卡片/签名档。生成的卡片为 SVG，可用于个人主页。
+osu-stats-signature can generate real-time updated osu! profile card/signature file. The generated cards are SVG and can be used on personal homepages.
 
-## 使用
+## Usage
 
-该项目部署在 Vercel 上，前往 [osu-stats-signature.vercel.app](https://osu-stats-signature.vercel.app) 生成卡片。
+The project is deployed on Vercel, go to [osu-stats-signature.vercel.app](https://osu-stats-signature.vercel.app) to generate the card.
 
-将得到的卡片 SVG 地址作为图片插入到个人主页中即可。
+Just insert the obtained card SVG address into your personal homepage as an image.
 
-## 功能 & TODO
+## FUNCTION & TODO
 
-- [x] 获取 osu! 账号信息并生成卡片
-- [x] 获取并显示头像和用户背景图片
-- [x] 支持背景图片高斯模糊
-- [x] 过渡动画
-- [x] 显示 Supporter Tag
-- [x] 英文版卡片
-- [x] Mini 卡片
-- [x] 缓存机制
-- [ ] 生成个人 bp (最佳成绩) 卡片
-- [ ] 生成单个成绩详情卡片
+- [x] Get osu! account information and generate cards
+- [x] Get and display avatar and user background image
+- [x] Support background image Gaussian blur
+- [x] Transition animation
+- [x] Show Supporter Tag
+- [x] English version of the card
+- [x] Mini Card
+- [x] Caching mechanism
+- [ ] Generate personal bp (best score) cards
+- [ ] Generate a single score detail card
 
-# 预览
+# Preview
 
 ## Full
 
